@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "agriculture_knowledge.json_1",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 1)",
+    "domain": "agriculture",
+    "text": "id: A001 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Assistance for land and other loss | assistance_type: De-silting of agricultural land | rate_text: Rs. 18,000 per hectare | rate_inr: 18000 | unit: per hectare | minimum_assistance_text: Rs. 2,200 per farmer | minimum_assistance_inr: 2200 | conditions: ['Thickness of sand/silt deposit is more than 3 inches, certified by the competent authority of the State Government', 'No other assistance/subsidy has been availed of or is eligible under any other Government Scheme'] | notes: ['The rate of Rs. 18,000 per hectare applies for each item (de-silting of agricultural land, debris removal in hilly areas, fish farm repair)'] | source: {'document': 'Disaster2.pdf', 'pdf_page': 7, 'printed_page': 3} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): De-silting of agricultural land. Assistance: Rs. 18,000 per hectare. Minimum assistance: Rs. 2,200 per farmer. Thickness of sand/silt deposit is more than 3 inches, certified by the competent authority of the State Government. No other assistance/subsidy has been availed of or is eligible under any other Government Scheme. The rate of Rs. 18,000 per hectare applies for each item (de-silting of agricultural land, debris removal in hilly areas, fish farm repair)."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_2",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 2)",
+    "domain": "agriculture",
+    "text": "id: A002 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Assistance for land and other loss | assistance_type: Removal of debris on agricultural land in hilly areas | rate_text: Rs. 18,000 per hectare | rate_inr: 18000 | unit: per hectare | minimum_assistance_text: Rs. 2,200 per farmer | minimum_assistance_inr: 2200 | conditions: ['Agricultural land in hilly areas', 'No other assistance/subsidy has been availed of or is eligible under any other Government Scheme'] | notes: ['The rate of Rs. 18,000 per hectare applies for each item'] | source: {'document': 'Disaster2.pdf', 'pdf_page': 7, 'printed_page': 3} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Removal of debris on agricultural land in hilly areas. Assistance: Rs. 18,000 per hectare. Minimum assistance: Rs. 2,200 per farmer. Agricultural land in hilly areas. No other assistance/subsidy has been availed of or is eligible under any other Government Scheme. The rate of Rs. 18,000 per hectare applies for each item."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_3",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 3)",
+    "domain": "agriculture",
+    "text": "id: A003 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Assistance for land and other loss | assistance_type: De-silting/Restoration/Repair of fish farms | rate_text: Rs. 18,000 per hectare | rate_inr: 18000 | unit: per hectare | minimum_assistance_text: Rs. 2,200 per farmer | minimum_assistance_inr: 2200 | conditions: ['Fish farms', 'No other assistance/subsidy has been availed of or is eligible under any other Government Scheme'] | notes: ['The rate of Rs. 18,000 per hectare applies for each item'] | source: {'document': 'Disaster2.pdf', 'pdf_page': 7, 'printed_page': 3} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): De-silting/Restoration/Repair of fish farms. Assistance: Rs. 18,000 per hectare. Minimum assistance: Rs. 2,200 per farmer. Fish farms. No other assistance/subsidy has been availed of or is eligible under any other Government Scheme. The rate of Rs. 18,000 per hectare applies for each item."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_4",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 4)",
+    "domain": "agriculture",
+    "text": "id: A004 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Assistance for land and other loss | assistance_type: Loss of substantial portion of land | rate_text: Rs. 47,000 per hectare | rate_inr: 47000 | unit: per hectare | minimum_assistance_text: Rs. 5,000 per farmer | minimum_assistance_inr: 5000 | conditions: ['Loss caused by landslide, avalanche or change of course of rivers', 'Only for small and marginal farmers whose ownership of the land is legitimate as per revenue records'] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 7, 'printed_page': 3} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Loss of substantial portion of land. Assistance: Rs. 47,000 per hectare. Minimum assistance: Rs. 5,000 per farmer. Loss caused by landslide, avalanche or change of course of rivers. Only for small and marginal farmers whose ownership of the land is legitimate as per revenue records."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_5",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 5)",
+    "domain": "agriculture",
+    "text": "id: A005 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Input subsidy (where crop loss is 33% and above) | assistance_type: Input subsidy | crop_group: Agriculture crops, horticulture crops and annual plantation crops | crop_type: Crops other than paddy in rainfed areas | rate_text: Rs. 8,500 per hectare | rate_inr: 8500 | unit: per hectare | minimum_assistance_text: Rs. 1,000 per farmer | minimum_assistance_inr: 1000 | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 7, 'printed_page': 3} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Input subsidy for Crops other than paddy in rainfed areas. Assistance: Rs. 8,500 per hectare. Minimum assistance: Rs. 1,000 per farmer. Applicable where crop loss is 33% and above. Restricted to sown areas."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_6",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 6)",
+    "domain": "agriculture",
+    "text": "id: A006 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Input subsidy (where crop loss is 33% and above) | assistance_type: Input subsidy | crop_group: Agriculture crops, horticulture crops and annual plantation crops | crop_type: Crops in assured irrigated areas | rate_text: Rs. 17,000 per hectare | rate_inr: 17000 | unit: per hectare | minimum_assistance_text: Rs. 2,000 per farmer | minimum_assistance_inr: 2000 | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 7, 'printed_page': 3} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Input subsidy for Crops in assured irrigated areas. Assistance: Rs. 17,000 per hectare. Minimum assistance: Rs. 2,000 per farmer. Applicable where crop loss is 33% and above. Restricted to sown areas."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_7",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 7)",
+    "domain": "agriculture",
+    "text": "id: A007 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Input subsidy (where crop loss is 33% and above) | assistance_type: Input subsidy | crop_type: Perennial crops/Agro forestry (plantation in own farmland) | rate_text: Rs. 22,500 per hectare | rate_inr: 22500 | unit: per hectare | minimum_assistance_text: Rs. 2,500 per farmer | minimum_assistance_inr: 2500 | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | conditions: ['Plantation in own farmland'] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Input subsidy for Perennial crops/Agro forestry (plantation in own farmland). Assistance: Rs. 22,500 per hectare. Minimum assistance: Rs. 2,500 per farmer. Applicable where crop loss is 33% and above. Restricted to sown areas. Plantation in own farmland."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_8",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 8)",
+    "domain": "agriculture",
+    "text": "id: A008 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Input subsidy (where crop loss is 33% and above) | assistance_type: Input subsidy | crop_type: Sericulture - Eri, Mulberry, Tussar | rate_text: Rs. 7,410 per hectare | rate_inr: 7410 | unit: per hectare | minimum_assistance_text: Rs. 1,000 per farmer | minimum_assistance_inr: 1000 | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Input subsidy for Sericulture - Eri, Mulberry, Tussar. Assistance: Rs. 7,410 per hectare. Minimum assistance: Rs. 1,000 per farmer. Applicable where crop loss is 33% and above. Restricted to sown areas."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_9",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 9)",
+    "domain": "agriculture",
+    "text": "id: A009 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Input subsidy (where crop loss is 33% and above) | assistance_type: Input subsidy | crop_type: Sericulture - Muga | rate_text: Rs. 7,500 per hectare | rate_inr: 7500 | unit: per hectare | minimum_assistance_text: Rs. 1,000 per farmer | minimum_assistance_inr: 1000 | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Input subsidy for Sericulture - Muga. Assistance: Rs. 7,500 per hectare. Minimum assistance: Rs. 1,000 per farmer. Applicable where crop loss is 33% and above. Restricted to sown areas."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_10",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 10)",
+    "domain": "agriculture",
+    "text": "id: A010 | category: Agriculture | farmer_group: Small and marginal farmers | landholding: Up to 2 hectares | section: Input subsidy (where crop loss is 33% and above) | assistance_type: Input subsidy | crop_type: Paddy | rate_text: Rs. 17,000 per hectare | rate_inr: 17000 | unit: per hectare | minimum_assistance_text: Rs. 2,000 per farmer | minimum_assistance_inr: 2000 | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Small and marginal farmers (landholding: up to 2 hectares): Input subsidy for Paddy. Assistance: Rs. 17,000 per hectare. Minimum assistance: Rs. 2,000 per farmer. Applicable where crop loss is 33% and above. Restricted to sown areas."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_11",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 11)",
+    "domain": "agriculture",
+    "text": "id: A011 | category: Agriculture | farmer_group: Farmers with more than 2 hectares | landholding: More than 2 hectares | section: Input subsidy to farmers having more than 2 hectares of landholding | assistance_type: Input subsidy | crop_type: Crops other than paddy in rainfed areas | rate_text: Rs. 8,500 per hectare | rate_inr: 8500 | unit: per hectare | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | ceiling: Subject to a ceiling of 2 hectares per farmer | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Farmers with more than 2 hectares (landholding: more than 2 hectares): Input subsidy for Crops other than paddy in rainfed areas. Assistance: Rs. 8,500 per hectare. Applicable where crop loss is 33% and above. Restricted to sown areas. Subject to a ceiling of 2 hectares per farmer."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_12",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 12)",
+    "domain": "agriculture",
+    "text": "id: A012 | category: Agriculture | farmer_group: Farmers with more than 2 hectares | landholding: More than 2 hectares | section: Input subsidy to farmers having more than 2 hectares of landholding | assistance_type: Input subsidy | crop_type: Crops in assured irrigated areas | rate_text: Rs. 17,000 per hectare | rate_inr: 17000 | unit: per hectare | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | ceiling: Subject to a ceiling of 2 hectares per farmer | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Farmers with more than 2 hectares (landholding: more than 2 hectares): Input subsidy for Crops in assured irrigated areas. Assistance: Rs. 17,000 per hectare. Applicable where crop loss is 33% and above. Restricted to sown areas. Subject to a ceiling of 2 hectares per farmer."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_13",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 13)",
+    "domain": "agriculture",
+    "text": "id: A013 | category: Agriculture | farmer_group: Farmers with more than 2 hectares | landholding: More than 2 hectares | section: Input subsidy to farmers having more than 2 hectares of landholding | assistance_type: Input subsidy | crop_type: Paddy | rate_text: Rs. 17,000 per hectare | rate_inr: 17000 | unit: per hectare | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | ceiling: Subject to a ceiling of 2 hectares per farmer | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Farmers with more than 2 hectares (landholding: more than 2 hectares): Input subsidy for Paddy. Assistance: Rs. 17,000 per hectare. Applicable where crop loss is 33% and above. Restricted to sown areas. Subject to a ceiling of 2 hectares per farmer."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_14",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 14)",
+    "domain": "agriculture",
+    "text": "id: A014 | category: Agriculture | farmer_group: Farmers with more than 2 hectares | landholding: More than 2 hectares | section: Input subsidy to farmers having more than 2 hectares of landholding | assistance_type: Input subsidy | crop_type: Perennial crops/Agro forestry (plantation in own farmland) | rate_text: Rs. 22,500 per hectare | rate_inr: 22500 | unit: per hectare | crop_loss_threshold: 33% and above | crop_loss_threshold_percent: 33 | restricted_to_sown_area: True | ceiling: Subject to a ceiling of 2 hectares per farmer | conditions: ['Plantation in own farmland'] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 8, 'printed_page': 4} | summary: Agriculture - Farmers with more than 2 hectares (landholding: more than 2 hectares): Input subsidy for Perennial crops/Agro forestry (plantation in own farmland). Assistance: Rs. 22,500 per hectare. Applicable where crop loss is 33% and above. Restricted to sown areas. Subject to a ceiling of 2 hectares per farmer. Plantation in own farmland."
+  },
+  {
+    "chunk_id": "agriculture_knowledge.json_15",
+    "source": "agriculture_knowledge.json",
+    "page": "Annexure-I (Item 15)",
+    "domain": "agriculture",
+    "text": "id: A015 | category: Agriculture | sub_category: Fishery | farmer_group: Small and marginal farmers | section: Fishery - input subsidy for fish seed farm | assistance_type: Input subsidy for fish seed farm | rate_text: Rs. 10,000 per hectare | rate_inr: 10000 | unit: per hectare | conditions: ['Not provided if the beneficiary is eligible for, or has availed of, any subsidy/assistance for the instant calamity under any other Government Scheme, except the one-time subsidy under the Scheme of Ministry of Fisheries, Animal Husbandry & Dairying'] | notes: [] | scope_note: Added from Annexure-I item 7(ii) (Fishery); related to agriculture but outside original items 5(i)/5(ii) | source: {'document': 'Disaster2.pdf', 'pdf_page': 9, 'printed_page': 5} | summary: Agriculture - Small and marginal farmers: Input subsidy for fish seed farm. Assistance: Rs. 10,000 per hectare. Not provided if the beneficiary is eligible for, or has availed of, any subsidy/assistance for the instant calamity under any other Government Scheme, except the one-time subsidy under the Scheme of Ministry of Fisheries, Animal Husbandry & Dairying."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_1",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 1)",
+    "domain": "housing",
+    "text": "id: H001 | category: Housing | assistance_type: Fully damaged/destroyed and severely damaged houses | damage_type: Fully damaged/destroyed or severely damaged | house_type: Pucca | location_condition: Plain areas | benefit_text: Rs. 1,20,000 per house | amount_inr: 120000 | unit: per house | benefit_type: monetary | conditions: [] | notes: ['As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations'] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Fully damaged/destroyed and severely damaged houses. Damage: Fully damaged/destroyed or severely damaged. House type: Pucca. Area: Plain areas. Benefit: Rs. 1,20,000 per house. As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_2",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 2)",
+    "domain": "housing",
+    "text": "id: H002 | category: Housing | assistance_type: Fully damaged/destroyed and severely damaged houses | damage_type: Fully damaged/destroyed or severely damaged | house_type: Kutcha | location_condition: Hilly areas | benefit_text: Rs. 1,30,000 per house | amount_inr: 130000 | unit: per house | benefit_type: monetary | conditions: [] | notes: ['As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations'] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Fully damaged/destroyed and severely damaged houses. Damage: Fully damaged/destroyed or severely damaged. House type: Kutcha. Area: Hilly areas. Benefit: Rs. 1,30,000 per house. As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_3",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 3)",
+    "domain": "housing",
+    "text": "id: H003 | category: Housing | assistance_type: Partially damaged houses | damage_type: Partially damaged | house_type: Pucca | damage_threshold: At least 15% | damage_threshold_percent: 15 | benefit_text: Rs. 6,500 per house | amount_inr: 6500 | unit: per house | benefit_type: monetary | conditions: ['Other than huts', 'Damage must be at least 15%'] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Partially damaged houses. Damage: Partially damaged. House type: Pucca. Benefit: Rs. 6,500 per house. Other than huts. Damage must be at least 15%."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_4",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 4)",
+    "domain": "housing",
+    "text": "id: H004 | category: Housing | assistance_type: Partially damaged houses | damage_type: Partially damaged | house_type: Kutcha | damage_threshold: At least 15% | damage_threshold_percent: 15 | benefit_text: Rs. 4,000 per house | amount_inr: 4000 | unit: per house | benefit_type: monetary | conditions: ['Other than huts', 'Damage must be at least 15%'] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Partially damaged houses. Damage: Partially damaged. House type: Kutcha. Benefit: Rs. 4,000 per house. Other than huts. Damage must be at least 15%."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_5",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 5)",
+    "domain": "housing",
+    "text": "id: H005 | category: Housing | assistance_type: Damaged/destroyed huts | damage_type: Damaged/destroyed | house_type: Hut | benefit_text: Rs. 8,000 per hut | amount_inr: 8000 | unit: per hut | benefit_type: monetary | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Damaged/destroyed huts. Damage: Damaged/destroyed. House type: Hut. Benefit: Rs. 8,000 per hut."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_6",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 6)",
+    "domain": "housing",
+    "text": "id: H006 | category: Housing | assistance_type: Damaged/destroyed huts | damage_type: Damaged | house_type: Hut | benefit_text: 10 kg rice for each case of damaged huts | quantity: 10 | unit: kg rice per case | benefit_type: in_kind | conditions: [] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Damaged/destroyed huts. Damage: Damaged. House type: Hut. Benefit: 10 kg rice for each case of damaged huts."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_7",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 7)",
+    "domain": "housing",
+    "text": "id: H007 | category: Housing | assistance_type: Cattle shed attached with house | house_type: Cattle shed | benefit_text: Rs. 3,000 per shed | amount_inr: 3000 | unit: per shed | benefit_type: monetary | conditions: ['Cattle shed attached with house'] | notes: [] | source: {'document': 'Disaster2.pdf', 'pdf_page': 10, 'printed_page': 6} | summary: Housing: Cattle shed attached with house. Benefit: Rs. 3,000 per shed. Cattle shed attached with house."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_8",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 8)",
+    "domain": "housing",
+    "text": "id: H008 | category: Housing | assistance_type: Clothing for families whose houses are lost/damaged | damage_type: Washed away / fully damaged / severely inundated for more than two days due to a natural calamity | benefit_text: Rs. 2,500 per family for loss of clothing | amount_inr: 2500 | unit: per family | benefit_type: monetary | conditions: [] | notes: [] | scope_note: Added from Annexure-I item 1(d) (Gratuitous Relief); applies to families with house damage but sits outside the Housing item 10 | source: {'document': 'Disaster2.pdf', 'pdf_page': 5, 'printed_page': 1} | summary: Housing: Clothing for families whose houses are lost/damaged. Damage: Washed away / fully damaged / severely inundated for more than two days due to a natural calamity. Benefit: Rs. 2,500 per family for loss of clothing."
+  },
+  {
+    "chunk_id": "housing_knowledge.json_9",
+    "source": "housing_knowledge.json",
+    "page": "Annexure-I (Item 9)",
+    "domain": "housing",
+    "text": "id: H009 | category: Housing | assistance_type: Utensils/household goods for families whose houses are lost/damaged | damage_type: Washed away / fully damaged / severely inundated for more than two days due to a natural calamity | benefit_text: Rs. 2,500 per family for loss of utensils/household goods | amount_inr: 2500 | unit: per family | benefit_type: monetary | conditions: [] | notes: [] | scope_note: Added from Annexure-I item 1(d) (Gratuitous Relief); applies to families with house damage but sits outside the Housing item 10 | source: {'document': 'Disaster2.pdf', 'pdf_page': 5, 'printed_page': 1} | summary: Housing: Utensils/household goods for families whose houses are lost/damaged. Damage: Washed away / fully damaged / severely inundated for more than two days due to a natural calamity. Benefit: Rs. 2,500 per family for loss of utensils/household goods."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p1_c1",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 1,
+    "domain": "general",
+    "text": "Government Relief Schemes & Policies for Flood Disasters Comprehensive Guide to Housing Assistance, Financial Relief, and Rehabilitation During severe floods and natural disasters, both State and Central governments enact strict disaster management protocols to provide immediate rescue, financial relief, and long-term rehabilitation. In Tamil Nadu, these operations are governed by the guidelines of the State Disaster Response Fund (SDRF) and supplemented by the Chief Minister's Public Relief Fund (CMPRF). 1."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p1_c2",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 1,
+    "domain": "housing",
+    "text": "lines of the State Disaster Response Fund (SDRF) and supplemented by the Chief Minister's Public Relief Fund (CMPRF). 1. Housing and Infrastructure Relief Policies The government provides direct financial assistance to help citizens repair, rebuild, or relocate after their living spaces are damaged by floods. The compensation amounts are categorized based on the severity of the damage and the type of housing structure. Damage Category Description of Damage Standard Compensation (₹) Fully Damaged Complete destruction of Pucca (concrete) or Kutcha (mud/thatch) houses in plain areas."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p1_c3",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 1,
+    "domain": "housing",
+    "text": "rd Compensation (₹) Fully Damaged Complete destruction of Pucca (concrete) or Kutcha (mud/thatch) houses in plain areas. 1,20,000 Severely Damaged Major structural damage to Pucca or Kutcha houses requiring extensive masonry/roofing repair. 95,100 Partially Damaged (Pucca) Minor damages to permanent structures (e.g., collapsed compound walls, roof leaks). 5,200 Partially Damaged (Kutcha) Minor damages to semi-permanent or mud structures. 3,200 Damaged Huts Destruction of temporary hutments (recently enhanced by the Tamil Nadu Government). 8,000 2."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p1_c4",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 1,
+    "domain": "housing",
+    "text": "uctures. 3,200 Damaged Huts Destruction of temporary hutments (recently enhanced by the Tamil Nadu Government). 8,000 2. Immediate Family Livelihood Relief To help families recover from the sudden disruption of normal life, loss of household items, and immediate livelihood suspension, special relief packages are disbursed. Official Guidelines Summary - Subject to Current G.O. Updates Page 1 of 3"
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p2_c5",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 2,
+    "domain": "housing",
+    "text": "General Livelihood Assistance: A lump-sum amount (typically ₹6,000 during severe cyclones/floods in Tamil Nadu) is distributed to severely affected families through direct bank transfers or fair price (ration) shops. Clothing & Utensils: Gratuitous relief of ₹1,800 for the loss of clothing and ₹2,000 for the loss of household utensils per family. Loss of Life: An ex-gratia payment of ₹4,00,000 to ₹5,00,000 is provided to the next of kin of the deceased. Grievous Injury: Financial assistance ranging from ₹12,700 (less than 40% disability) to ₹2,50,000 (more than 60% disability) is provided to injured victims."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p2_c6",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 2,
+    "domain": "general",
+    "text": "ranging from ₹12,700 (less than 40% disability) to ₹2,50,000 (more than 60% disability) is provided to injured victims. Resettlement & Long-Term Housing For citizens living in highly vulnerable low-lying areas or riverbanks, the government implements permanent resettlement policies. Through the Tamil Nadu Urban Habitat Development Board (TNUHDB) and the Pradhan Mantri Awas Yojana (PMAY), affected families are allocated safe, permanent concrete apartments to prevent future disaster displacement. 3. Support for Agricultural & Livestock Losses Floods severely impact rural living spaces that double as agricultural hubs."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p2_c7",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 2,
+    "domain": "agriculture",
+    "text": "Support for Agricultural & Livestock Losses Floods severely impact rural living spaces that double as agricultural hubs. Relief is extended to farmers and livestock owners to ensure livelihood continuity. Asset Category Relief Assistance Guidelines Livestock Loss Milch animals (cows/buffaloes): ₹30,000 per animal. Draft animals (bullocks): ₹25,000 per animal. Poultry: ₹50 per bird. Crop Damage Input subsidy for crop loss of 33% and above. Rainfed crops (₹8,500/hectare); Assured irrigated crops (₹17,000/hectare); Perennial crops (₹22,500/hectare). 4."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p2_c8",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 2,
+    "domain": "agriculture",
+    "text": "above. Rainfed crops (₹8,500/hectare); Assured irrigated crops (₹17,000/hectare); Perennial crops (₹22,500/hectare). 4. Application and Assessment Process To claim government benefits, affected residents must undergo a systematic assessment process verified by local revenue authorities. Official Guidelines Summary - Subject to Current G.O. Updates Page 2 of 3"
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p3_c9",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 3,
+    "domain": "general",
+    "text": "Step 1: Immediate Reporting: Inform the Village Administrative Officer (VAO) or Revenue Inspector about the damage to your property. Step 2: Damage Assessment (Panchanama): Revenue officials will visit the site, document the damage with photographs, and prepare an official assessment report. Step 3: Document Submission: Submit the application form along with Aadhaar Card, Family Ration Card, Bank Passbook (for Direct Benefit Transfer), and photographic evidence."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p3_c10",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 3,
+    "domain": "general",
+    "text": "orm along with Aadhaar Card, Family Ration Card, Bank Passbook (for Direct Benefit Transfer), and photographic evidence. Step 4: Approval & Disbursement: The District Collector reviews the damage assessments and sanctions the release of funds directly into the beneficiary’s bank account via standard treasury routes. 5."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p3_c11",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 3,
+    "domain": "gratuitous_relief",
+    "text": "ssments and sanctions the release of funds directly into the beneficiary’s bank account via standard treasury routes. 5. Official Portals & Application Links Citizens can access further details, guidelines, and application portals for the respective schemes through the following official links: Scheme Name / Relief Category Official Portal / Application Link Chief Minister's Public Relief Fund (CMPRF) (For emergency assistance and ex-gratia) https://cmprf.tn.gov.in TN e-Sevai Portal (For general disaster relief applications) https://www.tnesevai.tn.gov.in State Disaster Response Fund (SDRF) / NDMA (Policy guidelines for state response) https://ndmindia.mha.gov.in Tamilnadu Industrial Investment Corporation (TIIC) (Flood relief loans for MSMEs and businesses) https://www.tiic.org In cases of emergency medical needs or extreme hardship not covered by standard SDRF norms, citizens can submit an explicit petition to the Chief Minister's Public Relief Fund (CMPRF) portal for discretionary assistance."
+  },
+  {
+    "chunk_id": "Government Flood Relief Schemes & Policies.pdf_p3_c12",
+    "source": "Government Flood Relief Schemes & Policies.pdf",
+    "page": 3,
+    "domain": "general",
+    "text": "can submit an explicit petition to the Chief Minister's Public Relief Fund (CMPRF) portal for discretionary assistance. Official Guidelines Summary - Subject to Current G.O. Updates Page 3 of 3"
+  }
+]

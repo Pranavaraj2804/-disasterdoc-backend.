@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+faiss-cpu
+numpy
+fastembed
+opencv-python-headless
+pytesseract
+Pillow
+deep-translator
+gTTS
+SpeechRecognition
+pydub
+google-genai

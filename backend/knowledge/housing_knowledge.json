@@ -1,0 +1,251 @@
+{
+  "category": "Housing",
+  "source": {
+    "government_order": "G.O.(Ms).No.579",
+    "date": "09-12-2023",
+    "issued_by": "Revenue and Disaster Management Department (Disaster Management Wing, D.M.III(2))",
+    "effective_from": "Financial year 2023-2024",
+    "document": "Disaster2.pdf",
+    "pdf_pages": [
+      5,
+      10
+    ],
+    "printed_pages": [
+      1,
+      6
+    ]
+  },
+  "definitions": {
+    "hut": "A temporary, makeshift unit, inferior to a Kutcha house, made of thatch, mud, plastic sheets, etc., traditionally recognized as a hut by State/District authorities."
+  },
+  "items": [
+    {
+      "id": "H001",
+      "category": "Housing",
+      "assistance_type": "Fully damaged/destroyed and severely damaged houses",
+      "damage_type": "Fully damaged/destroyed or severely damaged",
+      "house_type": "Pucca",
+      "location_condition": "Plain areas",
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "Rs. 1,20,000 per house",
+      "amount_inr": 120000,
+      "quantity": null,
+      "unit": "per house",
+      "benefit_type": "monetary",
+      "conditions": [],
+      "notes": [
+        "As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations"
+      ],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Fully damaged/destroyed and severely damaged houses. Damage: Fully damaged/destroyed or severely damaged. House type: Pucca. Area: Plain areas. Benefit: Rs. 1,20,000 per house. As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations."
+    },
+    {
+      "id": "H002",
+      "category": "Housing",
+      "assistance_type": "Fully damaged/destroyed and severely damaged houses",
+      "damage_type": "Fully damaged/destroyed or severely damaged",
+      "house_type": "Kutcha",
+      "location_condition": "Hilly areas",
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "Rs. 1,30,000 per house",
+      "amount_inr": 130000,
+      "quantity": null,
+      "unit": "per house",
+      "benefit_type": "monetary",
+      "conditions": [],
+      "notes": [
+        "As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations"
+      ],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Fully damaged/destroyed and severely damaged houses. Damage: Fully damaged/destroyed or severely damaged. House type: Kutcha. Area: Hilly areas. Benefit: Rs. 1,30,000 per house. As printed in the G.O., this rate is listed only for this house type and area combination; the G.O. does not state a rate for the other combinations."
+    },
+    {
+      "id": "H003",
+      "category": "Housing",
+      "assistance_type": "Partially damaged houses",
+      "damage_type": "Partially damaged",
+      "house_type": "Pucca",
+      "location_condition": null,
+      "damage_threshold": "At least 15%",
+      "damage_threshold_percent": 15,
+      "benefit_text": "Rs. 6,500 per house",
+      "amount_inr": 6500,
+      "quantity": null,
+      "unit": "per house",
+      "benefit_type": "monetary",
+      "conditions": [
+        "Other than huts",
+        "Damage must be at least 15%"
+      ],
+      "notes": [],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Partially damaged houses. Damage: Partially damaged. House type: Pucca. Benefit: Rs. 6,500 per house. Other than huts. Damage must be at least 15%."
+    },
+    {
+      "id": "H004",
+      "category": "Housing",
+      "assistance_type": "Partially damaged houses",
+      "damage_type": "Partially damaged",
+      "house_type": "Kutcha",
+      "location_condition": null,
+      "damage_threshold": "At least 15%",
+      "damage_threshold_percent": 15,
+      "benefit_text": "Rs. 4,000 per house",
+      "amount_inr": 4000,
+      "quantity": null,
+      "unit": "per house",
+      "benefit_type": "monetary",
+      "conditions": [
+        "Other than huts",
+        "Damage must be at least 15%"
+      ],
+      "notes": [],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Partially damaged houses. Damage: Partially damaged. House type: Kutcha. Benefit: Rs. 4,000 per house. Other than huts. Damage must be at least 15%."
+    },
+    {
+      "id": "H005",
+      "category": "Housing",
+      "assistance_type": "Damaged/destroyed huts",
+      "damage_type": "Damaged/destroyed",
+      "house_type": "Hut",
+      "location_condition": null,
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "Rs. 8,000 per hut",
+      "amount_inr": 8000,
+      "quantity": null,
+      "unit": "per hut",
+      "benefit_type": "monetary",
+      "conditions": [],
+      "notes": [],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Damaged/destroyed huts. Damage: Damaged/destroyed. House type: Hut. Benefit: Rs. 8,000 per hut."
+    },
+    {
+      "id": "H006",
+      "category": "Housing",
+      "assistance_type": "Damaged/destroyed huts",
+      "damage_type": "Damaged",
+      "house_type": "Hut",
+      "location_condition": null,
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "10 kg rice for each case of damaged huts",
+      "amount_inr": null,
+      "quantity": 10,
+      "unit": "kg rice per case",
+      "benefit_type": "in_kind",
+      "conditions": [],
+      "notes": [],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Damaged/destroyed huts. Damage: Damaged. House type: Hut. Benefit: 10 kg rice for each case of damaged huts."
+    },
+    {
+      "id": "H007",
+      "category": "Housing",
+      "assistance_type": "Cattle shed attached with house",
+      "damage_type": null,
+      "house_type": "Cattle shed",
+      "location_condition": null,
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "Rs. 3,000 per shed",
+      "amount_inr": 3000,
+      "quantity": null,
+      "unit": "per shed",
+      "benefit_type": "monetary",
+      "conditions": [
+        "Cattle shed attached with house"
+      ],
+      "notes": [],
+      "scope_note": null,
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 10,
+        "printed_page": 6
+      },
+      "summary": "Housing: Cattle shed attached with house. Benefit: Rs. 3,000 per shed. Cattle shed attached with house."
+    },
+    {
+      "id": "H008",
+      "category": "Housing",
+      "assistance_type": "Clothing for families whose houses are lost/damaged",
+      "damage_type": "Washed away / fully damaged / severely inundated for more than two days due to a natural calamity",
+      "house_type": null,
+      "location_condition": null,
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "Rs. 2,500 per family for loss of clothing",
+      "amount_inr": 2500,
+      "quantity": null,
+      "unit": "per family",
+      "benefit_type": "monetary",
+      "conditions": [],
+      "notes": [],
+      "scope_note": "Added from Annexure-I item 1(d) (Gratuitous Relief); applies to families with house damage but sits outside the Housing item 10",
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 5,
+        "printed_page": 1
+      },
+      "summary": "Housing: Clothing for families whose houses are lost/damaged. Damage: Washed away / fully damaged / severely inundated for more than two days due to a natural calamity. Benefit: Rs. 2,500 per family for loss of clothing."
+    },
+    {
+      "id": "H009",
+      "category": "Housing",
+      "assistance_type": "Utensils/household goods for families whose houses are lost/damaged",
+      "damage_type": "Washed away / fully damaged / severely inundated for more than two days due to a natural calamity",
+      "house_type": null,
+      "location_condition": null,
+      "damage_threshold": null,
+      "damage_threshold_percent": null,
+      "benefit_text": "Rs. 2,500 per family for loss of utensils/household goods",
+      "amount_inr": 2500,
+      "quantity": null,
+      "unit": "per family",
+      "benefit_type": "monetary",
+      "conditions": [],
+      "notes": [],
+      "scope_note": "Added from Annexure-I item 1(d) (Gratuitous Relief); applies to families with house damage but sits outside the Housing item 10",
+      "source": {
+        "document": "Disaster2.pdf",
+        "pdf_page": 5,
+        "printed_page": 1
+      },
+      "summary": "Housing: Utensils/household goods for families whose houses are lost/damaged. Damage: Washed away / fully damaged / severely inundated for more than two days due to a natural calamity. Benefit: Rs. 2,500 per family for loss of utensils/household goods."
+    }
+  ]
+}
