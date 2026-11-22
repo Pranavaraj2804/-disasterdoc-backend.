@@ -122,7 +122,7 @@ def process_claim(query, language, enable_voice, notice_text, publication_date, 
             [f"• {b['category']}: {b['calculation']} = Rs. {b['amount']:,}" for b in claim_eval["breakdown"]]
         )
         calc_block = (
-            f"VERIFIED G.O. 579 CALCULATION:\n{calc_summary}\nTotal Payable: Rs. {claim_eval['total_payable_inr']:,}/-"
+            f"VERIFIED G.O. 579 CALCULATION:\n{calc_summary}\nIndicative total as per G.O. 579 (not a promise): Rs. {claim_eval['total_payable_inr']:,}/-"
             if calc_summary else ""
         )
 
