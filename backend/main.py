@@ -17,6 +17,7 @@ from backend.evidence.consistency import PairwiseConsistencyEngine
 from backend.evidence.matching import ReliefAndEvidenceMatcher
 from backend.evidence.confidence import ConfidenceAbstainEngine
 from backend.guidance.multilingual import MultilingualService
+from backend.guidance.gemini_translate import gemini_translate
 from backend.guidance.deadline_tracker import DeadlineTracker
 from backend.guidance.voice_service import VoiceAndTamilService
 from backend.reports.submission_pack import SubmissionPackExporter
@@ -61,6 +62,23 @@ confidence_engine = ConfidenceAbstainEngine()
 multilingual = MultilingualService()
 deadline_tracker = DeadlineTracker()
 voice_service = VoiceAndTamilService()
+
+_orig_normalize = voice_service.normalize_query_to_english
+
+
+def _normalize_query(query: str):
+    """Tamil -> English with Gemini (Google's free web translator is often blocked on cloud servers)."""
+    if voice_service.detect_text_language(query) != "ta":
+        return {"original_query": query, "english_query": query, "detected_lang": "en"}
+    try:
+        english = gemini_translate(query, "Tamil", "English")
+    except Exception as e:
+        print(f"[translate] Gemini failed for the query: {e}")
+        return _orig_normalize(query)
+    return {"original_query": query, "english_query": english, "detected_lang": "ta"}
+
+
+voice_service.normalize_query_to_english = _normalize_query
 pack_exporter = SubmissionPackExporter()
 impact_tracker = RuleChangeImpactTracker()
 
